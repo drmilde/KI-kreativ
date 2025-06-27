@@ -1,1 +1,4 @@
-# KI-kreativ-2
+# KI-kreativ
+
+
+Die Materialien für den Vortrag KI und Kreativität. 
